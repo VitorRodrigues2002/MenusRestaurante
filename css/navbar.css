@@ -1,0 +1,26 @@
+#title {
+    position: absolute;
+    right: 0;
+    margin-right:50%;
+}
+
+#logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+}
+
+#navbar{
+    background-color: #742f37;
+}
+
+footer{
+    background-color: #1c2331;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: white;
+    text-align: center;
+}
