@@ -13,3 +13,7 @@
     text-align: center;
     border: 1px solid black;
   }
+  p{
+    margin-top: revert;
+    margin-bottom: revert;
+  }
