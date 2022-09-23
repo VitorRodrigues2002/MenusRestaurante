@@ -3,6 +3,7 @@
     grid-template-columns: auto;
     /* background-color: #2196F3; */
     padding: 50px;
+    padding-top: 10px;
     height: 95%;
     width: 100%;
   }
@@ -16,4 +17,8 @@
   p{
     margin-top: revert;
     margin-bottom: revert;
+  }
+  .fa-angle-double-left:before{
+    padding-left: 50px;
+    color: black;
   }
